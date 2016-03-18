@@ -14,9 +14,9 @@ p.s. For Remote and Cluster, there are three downloadable formats (rpm, tar, zip
 
 CacheStore Code Base @github: [Here][csCodeBase]
 
-CacheStore Remote Plugin and Play: [Here][csRemote]
+CacheStore Remote Plugin&Play: [Here][csRemote]
 
-CacheStore Cluster Plugin and Play: [Here][csCluster]
+CacheStore Cluster Plugin&Play: [Here][csCluster]
 
 [csCodeBase]: https://github.com/viant/CacheStore
 [csRemote]: https://github.com/viant/CacheStore-deploy
