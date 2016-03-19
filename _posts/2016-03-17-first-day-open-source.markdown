@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Viant Technology's First Day to Open Source!"
 date:   2016-03-17 14:50:00
 categories: main
