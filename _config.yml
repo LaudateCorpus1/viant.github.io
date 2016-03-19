@@ -10,6 +10,7 @@ paginate:     1
 author:
   name:       Viant Data Engineering Team
   url:        http://viant.github.io 
+  email:      ""
 
 # Gems
 gems:
