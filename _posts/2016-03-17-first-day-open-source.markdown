@@ -5,7 +5,7 @@ date:   2016-03-17 14:50:00
 categories: main
 ---
 
-For the first time, we, Viant Technology LLC, start a place to the open-source community.  The first open-source project that we would like to share to the community is "CacheStore".
+For the very first time, we, Viant Technology, start a place to the open-source community.  The first open-source project that we would like to share to the community is "CacheStore".
 The current version is 1.0.2.  Please feel free to check them out.
 
 p.s. For Remote and Cluster, there are three downloadable formats (rpm, tar, zip) under its own repostiory.
