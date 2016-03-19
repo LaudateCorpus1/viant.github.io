@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "First time to use Jekyll!"
 date:   2016-03-16 22:50:00
 categories: main
