@@ -2,7 +2,7 @@
 title:        Engineering @ VIANT
 company:      VIANT
 pagename:     Viant Open Source Page
-tagline:      A Place for Us to Show the World What We Can Do
+tagline:      A Place to Show the World What We Can Do
 baseurl:      ""
 paginate:     1
 
@@ -10,6 +10,7 @@ paginate:     1
 author:
   name:       Viant Data Engineering Team
   url:        http://viant.github.io 
+  email:      ""
 
 # Gems
 gems:
