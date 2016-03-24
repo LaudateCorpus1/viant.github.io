@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "CacheStore's Website and Documentation Now Live"
+title:  "CacheStore's Open-Source Project Website and Documentation Now Live"
 date:   2016-03-23 14:09:00
 categories: main
 ---
 
-The website for CacheStore, Viant's first open source project, is now live!
+The project website for CacheStore, Viant's first open source project, is now live!
 
 You can view it by clicking [Here][website] or the CacheStore Button on this page.
 
