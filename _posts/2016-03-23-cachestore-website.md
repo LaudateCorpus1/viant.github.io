@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CacheStore's Open-Source Project Website and Documentation Now Live!"
+title:  "CacheStore's Project Website and Documentation Now Live!"
 date:   2016-03-23 14:09:00
 categories: main
 ---
