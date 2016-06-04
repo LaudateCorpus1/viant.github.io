@@ -8,7 +8,9 @@ categories: main
 We are proud to announce the official release of the Map Reduce feature in CacheStore version 1.1.0. Check out our updated [User Guide][userGuide] for more information.
 
 Release Notes:
+
 - Map Reduce officially released
+
 - Stability updates
 
 
