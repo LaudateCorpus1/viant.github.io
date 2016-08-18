@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "GoHessian's First Day to Open Source!: Introducing Hessian serializer for Go"
-date:   2016-08-18 00:00:00
+title:  "GoHessian Soft Release!: Introducing Hessian serializer for Go"
+date:   2016-08-18 12:10:00
 categories: main
 ---
 
