@@ -8,6 +8,7 @@ categories: main
 We are proud to announce the official release of the GoHessian serializer. Check out our updated [User Guide][userGuide] for more information.
 
 Release Notes:
+
 -first release of GoHessian
 
 
