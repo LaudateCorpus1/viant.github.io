@@ -13,4 +13,4 @@ Release Notes:
 
 
 
-[userGuide]: http://viant.github.io/GoHessian/GoHessian.html
+[userGuide]: http://viant.github.io/gohessian
