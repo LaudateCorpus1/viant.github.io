@@ -9,7 +9,7 @@ We are proud to announce the official release of the GoHessian serializer. Check
 
 Release Notes:
 
--first release of GoHessian
+- first release of GoHessian
 
 
 
