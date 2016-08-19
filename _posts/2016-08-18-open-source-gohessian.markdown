@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GoHessian Soft Release!: Introducing Hessian serializer for Go"
+title:  "GoHessian Soft Release: Introducing Hessian serializer for Go"
 date:   2016-08-18 12:10:00
 categories: main
 ---
