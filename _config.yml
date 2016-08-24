@@ -3,7 +3,7 @@ title:        Engineering @ VIANT
 company:      VIANT
 pagename:     Viant Open Source Page
 tagline:      A Place to Show the World What We Can Do
-baseurl:      "https://viant.github.io"
+baseurl:      "http://viant.github.io"
 paginate:     1
 
 # About/contact
